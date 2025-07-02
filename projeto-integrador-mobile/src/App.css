@@ -1,0 +1,11 @@
+#root {
+  max-width: 720px;
+  margin: 0;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
